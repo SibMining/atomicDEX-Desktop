@@ -6546,7 +6546,7 @@
   "SIBM-BEP20": {
       "coin": "SIBM-BEP20",
       "name": "SibMining",
-      "coinpaprika_id": "sibm-sibm",
+      "coinpaprika_id": "test-coin",
       "coingecko_id": "test-coin",
       "nodes": [
         "http://bsc1.cipig.net:8655",
